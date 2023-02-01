@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 18px;
+    line-height: 25px;
+    color: #164a44;
+    background-color: #b2d9d0
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
